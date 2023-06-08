@@ -1,0 +1,282 @@
+﻿++Solution 'PizzaManagement.API' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:PizzaManagement.API.sln
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++Presentation
+i:{f063aa24-79f7-4788-b34e-67720df37827}:Presentation
+++PizzaManagement.API
+i:{5a8fc888-4aea-444f-aab2-94c4773030be}:PizzaManagement.API
+++Connected Services 
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:>369
+++Dependencies
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:>368
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:>331
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:>333
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:>334
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:>332
+++Analyzers
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:analyzers
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:analyzers
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:analyzers
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:analyzers
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:analyzers
+++Frameworks
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:frameworks
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:frameworks
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:frameworks
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:frameworks
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:frameworks
+++Packages
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:packages
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:packages
+++Swashbuckle.AspNetCore (6.2.3)
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:>407
+++Projects
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:projects
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:projects
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:projects
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:projects
+++PizzaManagement.Infrastructure
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\pizzamanagement.infrastructure.csproj
+i:{9882f262-2652-48b3-9772-5ec4fd6b62bd}:PizzaManagement.Infrastructure
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\bin\debug\net6.0\pizzamanagement.infrastructure.dll
+++Properties
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\properties\
+++launchSettings.json
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\properties\launchsettings.json
+++Controllers
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\controllers\
+++WeatherForecastController.cs
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\controllers\weatherforecastcontroller.cs
+++Infrastructure
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\infrastructure\
+i:{f063aa24-79f7-4788-b34e-67720df37827}:Infrastructure
+++Extensions
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\infrastructure\extensions\
+++ServiceExtensions.cs
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\infrastructure\extensions\serviceextensions.cs
+++appsettings.json
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\appsettings.json
+++Program.cs
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\program.cs
+++WeatherForecast.cs
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\weatherforecast.cs
+++No service dependencies discovered
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:>370
+++Microsoft.AspNetCore.Analyzers
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:c:\users\bazo\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:c:\users\bazo\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\microsoft.netcore.app
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\microsoft.netcore.app
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.persistence\microsoft.netcore.app
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\microsoft.netcore.app
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\microsoft.netcore.app
+++appsettings.Development.json
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\appsettings.development.json
+++PizzaManagement.Domain
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\bin\debug\net6.0\pizzamanagement.domain.dll
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\pizzamanagement.domain.csproj
+i:{dc63844a-1fd6-457e-8559-7953918e6ebc}:PizzaManagement.Domain
+++PizzaManagement.Persistence
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.persistence\bin\debug\net6.0\pizzamanagement.persistence.dll
+i:{9882f262-2652-48b3-9772-5ec4fd6b62bd}:PizzaManagement.Persistence
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.persistence\pizzamanagement.persistence.csproj
+++Addresses
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\addresses\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\addresses\
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\addresses\
+++AddressRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\addresses\addressrepository.cs
+++IAddressRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\addresses\iaddressrepository.cs
+++Images
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\images\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\images\
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\images\
+++IImageRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\images\iimagerepository.cs
+++ImageRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\images\imagerepository.cs
+++Orders
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\orders\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\orders\
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\orders\
+++IOrderRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\orders\iorderrepository.cs
+++OrderRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\orders\orderrepository.cs
+++Pizzas
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\pizzas\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\pizzas\
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\pizzas\
+++IPizzaRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\pizzas\ipizzarepository.cs
+++PizzaRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\pizzas\pizzarepository.cs
+++RankHistories
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\rankhistories\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\rankhistories\
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\rankhistories\
+++IRankHistoryRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\rankhistories\irankhistoryrepository.cs
+++RankHistoryRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\rankhistories\rankhistoryrepository.cs
+++Users
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\users\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\users\
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\users\
+++IUserRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\users\iuserrepository.cs
+++UserRepository.cs
+i:{cc3ae33b-b1b6-4cd2-852c-01876c89ffd6}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.infrastructure\users\userrepository.cs
+++Microsoft.EntityFrameworkCore (7.0.2)
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:>382
+++Microsoft.EntityFrameworkCore.Design (7.0.2)
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:>479
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.2)
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:>481
+++Microsoft.EntityFrameworkCore.Tools (7.0.2)
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:>493
+++PizzaManagerDbContext.cs
+i:{63ec9636-b057-4e4c-8673-aec8a152a095}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.persistence\pizzamanagerdbcontext.cs
+++Core
+i:{f063aa24-79f7-4788-b34e-67720df37827}:Core
+++PizzaManagement.Application
+i:{dc63844a-1fd6-457e-8559-7953918e6ebc}:PizzaManagement.Application
+++Requests
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\addresses\requests\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\images\requests\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\orders\requests\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\pizzas\requests\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\rankhistories\requests\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\users\requests\
+++Responses
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\addresses\responses\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\images\responses\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\orders\responses\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\pizzas\responses\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\rankhistories\responses\
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\users\responses\
+++IAddressService.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\addresses\iaddressservice.cs
+++IImageService.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\images\iimageservice.cs
+++IOrderService.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\orders\iorderservice.cs
+++IPizzaService.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\pizzas\ipizzaservice.cs
+++PizzaService.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\pizzas\pizzaservice.cs
+++IRankHistoryService.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\rankhistories\irankhistoryservice.cs
+++IUserService.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\users\iuserservice.cs
+++AddressRequestModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\addresses\requests\addressrequestmodel.cs
+++AddressResponseModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\addresses\responses\addressresponsemodel.cs
+++ImageRequestModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\images\requests\imagerequestmodel.cs
+++ImageResponseModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\images\responses\imageresponsemodel.cs
+++OrderRequestModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\orders\requests\orderrequestmodel.cs
+++OrderResponseModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\orders\responses\orderresponsemodel.cs
+++PizzaRequestModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\pizzas\requests\pizzarequestmodel.cs
+++PizzaResponseModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\pizzas\responses\pizzaresponsemodel.cs
+++RankHistoryRequestModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\rankhistories\requests\rankhistoryrequestmodel.cs
+++RankHistoryResponseModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\rankhistories\responses\rankhistoryresponsemodel.cs
+++UserRequestModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\users\requests\userrequestmodel.cs
+++UserResponseModel.cs
+i:{e16ad244-f062-46e4-b3f0-f6496288eb56}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.application\users\responses\userresponsemodel.cs
+++Abstractions
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\abstractions\
+++Entity.cs
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\abstractions\entity.cs
+++Address.cs
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\addresses\address.cs
+++Image.cs
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\images\image.cs
+++Order.cs
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\orders\order.cs
+++Pizza.cs
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\pizzas\pizza.cs
+++RankHistory.cs
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\rankhistories\rankhistory.cs
+++User.cs
+i:{1ce258ab-c4ac-4199-bdcf-d7eeefbee417}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.domain\users\user.cs
+++Migrations
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\migrations\
+++20230127014811_databaseCreation.cs
+++PizzaManagerDbContextModelSnapshot.cs
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\migrations\pizzamanagerdbcontextmodelsnapshot.cs
+++20230127014811_databaseCreation.Designer.cs
+++20230127015100_databaseCreation.cs
+++20230127015100_databaseCreation.Designer.cs
+++NewFolder1
+++NewFolder
+++ContextFactory
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\contextfactory\
+++PizzaManagerDbContextFactory.cs
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\contextfactory\pizzamanagerdbcontextfactory.cs
+++bin
+++Debug
+++net6.0
+++PizzaManagement.Domain.dll
+++PizzaManagement.Domain.pdb
+++PizzaManagement.Persistence.deps.json
+++PizzaManagement.Persistence.dll
+++PizzaManagement.Persistence.pdb
+++PizzaManagement.Persistence.runtimeconfig.json
+++20230127022336_databaseCreation.cs
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\migrations\20230127022336_databasecreation.cs
+++20230127022336_databaseCreation.Designer.cs
+i:{15b01d42-b7cb-4bd5-a934-01e1ca2dbcae}:c:\users\bazo\source\repos\aleksandreandguladze\day_39\pizzamanagement.api\pizzamanagement.api\migrations\20230127022336_databasecreation.designer.cs

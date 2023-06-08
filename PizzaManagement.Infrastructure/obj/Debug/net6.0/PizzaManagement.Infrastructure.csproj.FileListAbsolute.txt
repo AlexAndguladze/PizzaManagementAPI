@@ -1,0 +1,17 @@
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\bin\Debug\net6.0\PizzaManagement.Infrastructure.deps.json
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\bin\Debug\net6.0\PizzaManagement.Infrastructure.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\bin\Debug\net6.0\PizzaManagement.Infrastructure.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\bin\Debug\net6.0\PizzaManagement.Domain.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\bin\Debug\net6.0\PizzaManagement.Persistence.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\bin\Debug\net6.0\PizzaManagement.Domain.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\bin\Debug\net6.0\PizzaManagement.Persistence.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\obj\Debug\net6.0\PizzaManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\obj\Debug\net6.0\PizzaManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\obj\Debug\net6.0\PizzaManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\obj\Debug\net6.0\PizzaManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\obj\Debug\net6.0\PizzaManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\obj\Debug\net6.0\PizzaManagement.Infrastructure.csproj.CopyComplete
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\obj\Debug\net6.0\PizzaManagement.Infrastructure.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\obj\Debug\net6.0\refint\PizzaManagement.Infrastructure.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\obj\Debug\net6.0\PizzaManagement.Infrastructure.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Infrastructure\obj\Debug\net6.0\ref\PizzaManagement.Infrastructure.dll

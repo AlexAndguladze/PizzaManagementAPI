@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PizzaManagement.API</name>
+    </assembly>
+    <members>
+        <member name="M:PizzaManagement.API.Controllers.AddressController.GetAll(System.Threading.CancellationToken)">
+            <summary>
+            Returns all addresses from database
+            </summary>
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.AddressController.GetById(System.Threading.CancellationToken,System.Int32)">
+            <summary>
+            Gets specified address from database
+            </summary>
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.AddressController.Create(System.Threading.CancellationToken,PizzaManagement.Application.Addresses.Requests.AddressRequestModel)">
+            <summary>
+            Creates user and saves it to database
+            </summary>
+            
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.AddressController.Update(System.Threading.CancellationToken,PizzaManagement.Application.Addresses.Requests.AddressRequestModel,System.Int32)">
+            <summary>
+            Updates specified address' information
+            </summary>
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.AddressController.Delete(System.Threading.CancellationToken,System.Int32)">
+            <summary>
+            Deletes specified address from database
+            </summary>
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.PizzaController.GetAll(System.Threading.CancellationToken)">
+            <summary>
+            Returns all pizzas from database
+            </summary>
+            <param name="cancellation"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.PizzaController.GetById(System.Threading.CancellationToken,System.Int32)">
+             <summary>
+             Gets specified pizza from database
+             </summary>
+             <param name="cancellationToken"></param>
+             <param name="id"></param>
+             <returns></returns>
+            
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.PizzaController.Create(System.Threading.CancellationToken,PizzaManagement.Application.Pizzas.Requests.PizzaRequestModel)">
+            <summary>
+            Creates pizza and saves it to database
+            </summary>
+            <param name="cancellationToken"></param>
+            <param name="request"></param>
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.PizzaController.Update(System.Threading.CancellationToken,PizzaManagement.Application.Pizzas.Requests.PizzaRequestModel,System.Int32)">
+            <summary>
+            Updates specified pizza's information
+            </summary>
+            <param name="cancellationToken"></param>
+            <param name="request"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.PizzaController.Delete(System.Threading.CancellationToken,System.Int32)">
+            <summary>
+            Deletes specified pizza from database
+            </summary>
+            <param name="cancellationToken"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.UserController.GetAll(System.Threading.CancellationToken)">
+            <summary>
+            Returns all users from database
+            </summary>
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.UserController.GetById(System.Threading.CancellationToken,System.Int32)">
+            <summary>
+            Gets specified user from database
+            </summary>
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.UserController.Create(System.Threading.CancellationToken,PizzaManagement.Application.Users.Requests.UserRequestModel)">
+            <summary>
+            Creates user and saves it to database
+            </summary>
+            
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.UserController.Update(System.Threading.CancellationToken,PizzaManagement.Application.Users.Requests.UserRequestModel,System.Int32)">
+            <summary>
+            Updates specified user's information
+            </summary>
+        </member>
+        <member name="M:PizzaManagement.API.Controllers.UserController.Delete(System.Threading.CancellationToken,System.Int32)">
+            <summary>
+            Deletes specified user from database
+            </summary>
+        </member>
+        <member name="T:PizzaManagement.API.Infrastructure.Localization.ErrorMessages">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:PizzaManagement.API.Infrastructure.Localization.ErrorMessages.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:PizzaManagement.API.Infrastructure.Localization.ErrorMessages.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:PizzaManagement.API.Infrastructure.Localization.ErrorMessages.FieldIsEmptyOrNull">
+            <summary>
+              Looks up a localized string similar to This field must not be empty or null.
+            </summary>
+        </member>
+        <member name="P:PizzaManagement.API.Infrastructure.Localization.ErrorMessages.MailFormat">
+            <summary>
+              Looks up a localized string similar to Mail format is incorrect.
+            </summary>
+        </member>
+        <member name="P:PizzaManagement.API.Infrastructure.Localization.ErrorMessages.MaxLength">
+            <summary>
+              Looks up a localized string similar to Entered value is more than maximum length.
+            </summary>
+        </member>
+        <member name="P:PizzaManagement.API.Infrastructure.Localization.ErrorMessages.MinLength">
+            <summary>
+              Looks up a localized string similar to Entered value is less than minimal length.
+            </summary>
+        </member>
+        <member name="P:PizzaManagement.API.Infrastructure.Localization.ErrorMessages.NotFound">
+            <summary>
+              Looks up a localized string similar to Object could not be located in database.
+            </summary>
+        </member>
+        <member name="P:PizzaManagement.API.Infrastructure.Localization.ErrorMessages.PhoneNumber">
+            <summary>
+              Looks up a localized string similar to Phone number is not valid.
+            </summary>
+        </member>
+        <member name="P:PizzaManagement.API.Infrastructure.Localization.ErrorMessages.Rank">
+            <summary>
+              Looks up a localized string similar to Rank is not valid number.
+            </summary>
+        </member>
+    </members>
+</doc>

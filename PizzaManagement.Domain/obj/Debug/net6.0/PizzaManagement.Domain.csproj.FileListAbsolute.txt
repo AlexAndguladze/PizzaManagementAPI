@@ -1,0 +1,12 @@
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\bin\Debug\net6.0\PizzaManagement.Domain.deps.json
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\bin\Debug\net6.0\PizzaManagement.Domain.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\bin\Debug\net6.0\PizzaManagement.Domain.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\obj\Debug\net6.0\PizzaManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\obj\Debug\net6.0\PizzaManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\obj\Debug\net6.0\PizzaManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\obj\Debug\net6.0\PizzaManagement.Domain.AssemblyInfo.cs
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\obj\Debug\net6.0\PizzaManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\obj\Debug\net6.0\PizzaManagement.Domain.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\obj\Debug\net6.0\refint\PizzaManagement.Domain.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\obj\Debug\net6.0\PizzaManagement.Domain.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_39\PizzaManagement.API\PizzaManagement.Domain\obj\Debug\net6.0\ref\PizzaManagement.Domain.dll
